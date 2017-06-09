@@ -1,0 +1,36 @@
+[
+	{
+		"phase": "discover",
+		"methods": [
+			"user research",
+			"business vision"
+		],
+		"deliverables": [
+			"personas",
+			"requirements",
+			"secondary research",
+			"user stories",
+			"task flow",
+			"user journey",
+			"experience map"
+		],
+		"reasons": "Business priorities often lack the reality of user needs and decisions are made based on what we \"think\" is needed rather than what is \"truly\" needed. UX has strategic aspects that involve a deep understanding of the business, the users, and context in which they operate."
+	},
+	{
+		"phase": "ideate",
+		"methods": [
+			"user research",
+			"business vision"
+		],
+		"deliverables": [
+			"personas",
+			"requirements",
+			"secondary research",
+			"user stories",
+			"task flow",
+			"user journey",
+			"experience map"
+		],
+		"reasons": "Business priorities often lack the reality of user needs and decisions are made based on what we \"think\" is needed rather than what is \"truly\" needed. UX has strategic aspects that involve a deep understanding of the business, the users, and context in which they operate."
+	}	
+]
