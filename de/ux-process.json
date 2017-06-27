@@ -1,10 +1,10 @@
 {
 	"keys": {
-		"name": "Phases",
-		"before": "Methods",
-		"after": "Deliverables",
-		"text": "Reasons",
-		"extra": "Threshold"
+		"name": "Phasen",
+		"before": "Methoden",
+		"after": "Lieferungen",
+		"text": "Gründe dafür",
+		"extra": "Schwelle"
 	},
 	"items": [
 	{
