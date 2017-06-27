@@ -1,4 +1,12 @@
-[
+{
+	"keys": {
+		"name": "Phases",
+		"before": "Methods",
+		"after": "Deliverables",
+		"text": "Reasons",
+		"extra": "Threshold"
+	},
+	"items": [
 	{
 		"phase": "discover",
 		"methods": [
@@ -129,3 +137,4 @@
 		"reasons": "Following a user-centered design approach helps clarify the user and business needs up front and avoids costly rework in later stages.\n\nUX activities such as stakeholder interviews, user research, user testing, and early prototyping can therefore help establish a clear scope and common understanding between business and development – thus saving time and money spent on redeveloping an unusable system."
 	}
 ]
+}
